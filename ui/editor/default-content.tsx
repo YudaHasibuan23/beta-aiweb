@@ -4,14 +4,14 @@ const DEFAULT_EDITOR_CONTENT = {
     {
       type: "heading",
       attrs: { level: 2 },
-      content: [{ type: "text", text: "Introducing Novel" }],
+      content: [{ type: "text", text: "Beta AI Bot " }],
     },
     {
       type: "paragraph",
       content: [
         {
           type: "text",
-          text: "Novel is a Notion-style WYSIWYG editor with AI-powered autocompletion. Built with ",
+          text: "Beta AI BOT by Yuda Hasibuan23",
         },
         {
           type: "text",
@@ -19,14 +19,14 @@ const DEFAULT_EDITOR_CONTENT = {
             {
               type: "link",
               attrs: {
-                href: "https://tiptap.dev/",
+                href: "https://instagram/yudahasibuan23",
                 target: "_blank",
                 class:
                   "text-stone-400 underline underline-offset-[3px] hover:text-stone-600 transition-colors cursor-pointer",
               },
             },
           ],
-          text: "Tiptap",
+          text: "Instagram",
         },
         { type: "text", text: " and " },
         {
@@ -42,7 +42,7 @@ const DEFAULT_EDITOR_CONTENT = {
               },
             },
           ],
-          text: "Vercel AI SDK",
+          text: ".",
         },
         { type: "text", text: "." },
       ],
@@ -155,7 +155,7 @@ const DEFAULT_EDITOR_CONTENT = {
                     {
                       type: "link",
                       attrs: {
-                        href: "https://github.com/steven-tey/novel",
+                        href: "https://github.com/YudaHasibuan23",
                         target: "_blank",
                         class:
                           "text-stone-400 underline underline-offset-[3px] hover:text-stone-600 transition-colors cursor-pointer",
@@ -181,7 +181,7 @@ const DEFAULT_EDITOR_CONTENT = {
                     {
                       type: "link",
                       attrs: {
-                        href: "https://vercel.com/templates/next.js/novel",
+                        href: "https://vercel.com/",
                         target: "_blank",
                         class:
                           "text-stone-400 underline underline-offset-[3px] hover:text-stone-600 transition-colors cursor-pointer",
